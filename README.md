@@ -1,4 +1,4 @@
-# EatDaBurger!
+# Eat-Da-Burger!
 
 Created during Week 14 of UCSD Coding Bootcamp. The goal was to create a Burger App using Node Express Handlebars and our own ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
@@ -13,7 +13,7 @@ https://rhoward-eat-da-burger.herokuapp.com/
 - express NPM Package - https://www.npmjs.com/package/express
 - mysql NPM Package - https://www.npmjs.com/package/mysql
 - express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
-- method-overrride NPM Package - https://www.npmjs.com/package/method-override 
+- method-override NPM Package - https://www.npmjs.com/package/method-override 
 
 ### Prerequisites
 
@@ -28,6 +28,6 @@ https://rhoward-eat-da-burger.herokuapp.com/
 * Materialize - Wireframe
 * MySql Workbench
 
-## Authors
+## Author
 
 * **Ryan Howard**
