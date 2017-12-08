@@ -1,0 +1,15 @@
+body{
+  background: url('../img/food3.gif');
+  background-color: #F0E68C;
+  font-family: cursive, sans-serif;
+  /*font-family: 'Coiny', cursive, serif;*/
+  font-size: 16px;
+}
+
+.card{
+  padding: 2px;
+}
+
+.brand-logo{
+	text-decoration: yellow;
+}
